@@ -18,6 +18,7 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 | APT            | Insane     | [Link](https://app.hackthebox.com/machines/296) |
 | PivotAPI       | Insane     | [Link](https://app.hackthebox.com/machines/345) |
 | Intelligence   | Medium     | [Link](https://app.hackthebox.com/machines/357) |
+| Anubis         | Insane     | [Link](https://app.hackthebox.com/machines/371) |
 | Return         | Easy       | [Link](https://app.hackthebox.com/machines/401) |
 | Search         | Hard       | [Link](https://app.hackthebox.com/machines/422) |
 | Acute          | Hard       | [Link](https://app.hackthebox.com/machines/438) |
@@ -46,3 +47,7 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 | Administrator  | Medium     | [Link](https://app.hackthebox.com/machines/634) |
 | Vintage        | Hard       | [Link](https://app.hackthebox.com/machines/637) |
 | EscapeTwo      | Easy       | [Link](https://app.hackthebox.com/machines/642) |
+| DarkCorp       | Insane     | [Link](https://app.hackthebox.com/machines/647) |
+| TheFrizz       | Medium     | [Link](https://app.hackthebox.com/machines/652) |
+| Haze           | Hard       | [Link](https://app.hackthebox.com/machines/654) |
+
