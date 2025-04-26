@@ -50,4 +50,4 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 | DarkCorp       | Insane     | [Link](https://app.hackthebox.com/machines/647) |
 | TheFrizz       | Medium     | [Link](https://app.hackthebox.com/machines/652) |
 | Haze           | Hard       | [Link](https://app.hackthebox.com/machines/654) |
-
+| Scepter        | Hard       | [Link](https://app.hackthebox.com/machines/657) |
