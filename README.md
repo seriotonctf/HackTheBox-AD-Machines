@@ -52,4 +52,5 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 | Haze           | Hard       | [Link](https://app.hackthebox.com/machines/654) |
 | Scepter        | Hard       | [Link](https://app.hackthebox.com/machines/657) |
 | Puppy          | Medium     | [Link](https://app.hackthebox.com/machines/661) |
-| Fluffy         | Easy        | [Link](https://app.hackthebox.com/machines/662) |
+| Fluffy         | Easy       | [Link](https://app.hackthebox.com/machines/662) |
+| Certificate    | Hard       | [Link](https://app.hackthebox.com/machines/663) |
