@@ -54,3 +54,4 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 | Puppy          | Medium     | [Link](https://app.hackthebox.com/machines/661) |
 | Fluffy         | Easy       | [Link](https://app.hackthebox.com/machines/662) |
 | Certificate    | Hard       | [Link](https://app.hackthebox.com/machines/663) |
+| TombWatcher    | Medium     | [Link](https://app.hackthebox.com/machines/664) |
