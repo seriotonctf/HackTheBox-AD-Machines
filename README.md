@@ -4,6 +4,7 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 
 | Machine Name   | Difficulty | Release Date    | Machine Link                                    |
 |----------------|------------|-----------------|-------------------------------------------------|
+| Mirage         | Hard       | 19 Jul, 2025    | https://app.hackthebox.com/machines/682 |
 | Voleur         | Medium     | 05 Jul, 2025    | https://app.hackthebox.com/machines/670 |
 | RustyKey       | Hard       | 28 Jun, 2025    | https://app.hackthebox.com/machines/669 |
 | TombWatcher    | Medium     | 07 Jun, 2025    | https://app.hackthebox.com/machines/664 |
