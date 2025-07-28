@@ -66,6 +66,7 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 
 | Machine Name   | Difficulty | Release Date    | Machine Link                                    |
 |----------------|------------|-----------------|-------------------------------------------------|
+| LustrousTwo    | Hard       | 31 Jul, 2025    | https://app.hackthebox.com/machines/688 |
 | RetroTwo       | Easy       | 22 Jul, 2025    | https://app.hackthebox.com/machines/685 |
 | Redelegate     | Hard       | 17 Jul, 2025    | https://app.hackthebox.com/machines/681 |
 | VulnCicada     | Medium     | 03 Jul, 2025    | https://app.hackthebox.com/machines/677 |
