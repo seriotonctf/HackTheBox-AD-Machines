@@ -66,6 +66,11 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 
 | Machine Name   | Difficulty | Release Date    | Machine Link                                    |
 |----------------|------------|-----------------|-------------------------------------------------|
+| BabyTwo        | Medium     | 25 Sep, 2025    | https://app.hackthebox.com/machines/746 |
+| Baby           | Easy       | 18 Sep, 2025    | https://app.hackthebox.com/machines/739 |
+| Delegate       | Medium     | 11 Sep, 2025    | https://app.hackthebox.com/machines/724 |
+| Sendai         | Medium     | 28 Aug, 2025    | https://app.hackthebox.com/machines/712 |
+| Phantom        | Medium     | 19 Aug, 2025    | https://app.hackthebox.com/machines/697 |
 | LustrousTwo    | Hard       | 31 Jul, 2025    | https://app.hackthebox.com/machines/688 |
 | RetroTwo       | Easy       | 22 Jul, 2025    | https://app.hackthebox.com/machines/685 |
 | Redelegate     | Hard       | 17 Jul, 2025    | https://app.hackthebox.com/machines/681 |
