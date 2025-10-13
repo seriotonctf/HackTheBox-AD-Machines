@@ -4,6 +4,7 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 
 | Machine Name   | Difficulty | Release Date    | Machine Link                                    |
 |----------------|------------|-----------------|-------------------------------------------------|
+| Signed         | Medium     | 11 Oct 2025    | https://app.hackthebox.com/machines/775 |
 | DarkZero       | Hard       | 04 Oct 2025    | https://app.hackthebox.com/machines/754 |
 | Mirage         | Hard       | 19 Jul 2025    | https://app.hackthebox.com/machines/682 |
 | Voleur         | Medium     | 05 Jul 2025    | https://app.hackthebox.com/machines/670 |
