@@ -86,7 +86,7 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 | Shibuya        | Hard       | 19 Jun 2025    | https://app.hackthebox.com/machines/667 |
 
 ### Chains (mini-prolabs)
-| Chain Name | Difficulty   | Machine Link                                           |
+| Chain Name | Difficulty   | Chain Link                                             |
 |------------|--------------|--------------------------------------------------------|
 | Mythical   | Advanced     | https://app.hackthebox.com/prolabs/mythical            |
 | Puppet     | Advanced     | https://app.hackthebox.com/prolabs/overview/puppet     |
