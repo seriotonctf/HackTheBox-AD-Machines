@@ -1,6 +1,6 @@
 # HackTheBox AD Machines
 
-A list of all Active Directory machines from HackTheBox, sorted by their release date (newest first), including difficulty levels and direct links.
+A list of all Active Directory machines from HackTheBox, sorted by their release date (newest first)
 
 | Machine Name   | Difficulty | Release Date    | Machine Link                                    |
 |----------------|------------|-----------------|-------------------------------------------------|
@@ -67,7 +67,8 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 
 ---
 
-## Vulnlab Machines
+## Vulnlab
+### Machines
 
 | Machine Name   | Difficulty | Release Date    | Machine Link                                    |
 |----------------|------------|-----------------|-------------------------------------------------|
@@ -83,3 +84,15 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 | VulnCicada     | Medium     | 03 Jul 2025    | https://app.hackthebox.com/machines/677 |
 | Retro          | Easy       | 24 Jun 2025    | https://app.hackthebox.com/machines/671 |
 | Shibuya        | Hard       | 19 Jun 2025    | https://app.hackthebox.com/machines/667 |
+
+### Chains (mini-prolabs)
+| Chain Name | Difficulty   | Machine Link                                           |
+|------------|--------------|--------------------------------------------------------|
+| Mythical   | Advanced     | https://app.hackthebox.com/prolabs/mythical            |
+| Puppet     | Advanced     | https://app.hackthebox.com/prolabs/overview/puppet     |
+| Kaiju      | Advanced     | https://app.hackthebox.com/prolabs/overview/kaiju      |
+| Tea        | Advanced     | https://app.hackthebox.com/prolabs/overview/tea        |
+| Klendathu  | Advanced     | https://app.hackthebox.com/prolabs/overview/klendathu  |
+| Tengu      | Advanced     | https://app.hackthebox.com/prolabs/overview/tengu      |
+| Heron      | Advanced     | https://app.hackthebox.com/prolabs/overview/heron      |
+| Unintended | Intermediate | https://app.hackthebox.com/prolabs/overview/unintended |
