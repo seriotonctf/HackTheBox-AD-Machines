@@ -4,6 +4,8 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 
 | Machine Name   | Difficulty | Release Date    | Machine Link                                    |
 |----------------|------------|-----------------|-------------------------------------------------|
+| Fries          | Hard       | 22 Nov 2025    | https://app.hackthebox.com/machines/808 |
+| NanoCorp       | Hard       | 08 Nov 2025    | https://app.hackthebox.com/machines/802 |
 | Hercules       | Insane     | 18 Oct 2025    | https://app.hackthebox.com/machines/778 |
 | Signed         | Medium     | 11 Oct 2025    | https://app.hackthebox.com/machines/775 |
 | DarkZero       | Hard       | 04 Oct 2025    | https://app.hackthebox.com/machines/754 |
