@@ -4,6 +4,7 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 
 | Machine Name   | Difficulty | Release Date    | Machine Link                                    |
 |----------------|------------|-----------------|-------------------------------------------------|
+| Overwatch      | Medium     | 24 Jan 2026    | https://app.hackthebox.com/machines/826 |
 | Fries          | Hard       | 22 Nov 2025    | https://app.hackthebox.com/machines/808 |
 | NanoCorp       | Hard       | 08 Nov 2025    | https://app.hackthebox.com/machines/802 |
 | Hercules       | Insane     | 18 Oct 2025    | https://app.hackthebox.com/machines/778 |
@@ -88,11 +89,20 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 ### Chains (mini-prolabs)
 | Chain Name | Difficulty   | Chain Link                                             |
 |------------|--------------|--------------------------------------------------------|
+| Sidecar    | Advanced     | https://app.hackthebox.com/prolabs/sidecar             |
+| Push       | Advanced     | https://app.hackthebox.com/prolabs/push                |
+| Intercept  | Advanced     | https://app.hackthebox.com/prolabs/intercept           |
 | Mythical   | Advanced     | https://app.hackthebox.com/prolabs/mythical            |
 | Puppet     | Advanced     | https://app.hackthebox.com/prolabs/overview/puppet     |
-| Kaiju      | Advanced     | https://app.hackthebox.com/prolabs/overview/kaiju      |
-| Tea        | Advanced     | https://app.hackthebox.com/prolabs/overview/tea        |
-| Klendathu  | Advanced     | https://app.hackthebox.com/prolabs/overview/klendathu  |
-| Tengu      | Advanced     | https://app.hackthebox.com/prolabs/overview/tengu      |
-| Heron      | Advanced     | https://app.hackthebox.com/prolabs/overview/heron      |
-| Unintended | Intermediate | https://app.hackthebox.com/prolabs/overview/unintended |
+| Kaiju      | Advanced     | https://app.hackthebox.com/prolabs/kaiju               |
+| Tea        | Advanced     | https://app.hackthebox.com/prolabs/tea                 |
+| Klendathu  | Advanced     | https://app.hackthebox.com/prolabs/klendathu           |
+| Tengu      | Advanced     | https://app.hackthebox.com/prolabs/tengu               |
+| Heron      | Advanced     | https://app.hackthebox.com/prolabs/heron               |
+| Unintended | Intermediate | https://app.hackthebox.com/prolabs/unintended          |
+
+### Red Team Labs
+| Lab Name | Difficulty   | Lab Link                                             |
+|------------|--------------|--------------------------------------------------------|
+| Ifrit      | Intermediate | https://app.hackthebox.com/prolabs/ifrit               |
+| Wutai      | Intermediate | https://app.hackthebox.com/prolabs/wutai               |
