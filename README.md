@@ -2,8 +2,9 @@
 
 A list of all Active Directory machines from HackTheBox, sorted by their release date (newest first)
 
-| Machine Name   | Difficulty | Release Date    | Machine Link                                    |
-|----------------|------------|-----------------|-------------------------------------------------|
+| Machine Name   | Difficulty | Release Date   | Machine Link                                    |
+|----------------|------------|----------------|-------------------------------------------------|
+| Pirate         | Hard       | 28 Feb 2026    | https://app.hackthebox.com/machines/844 |
 | Overwatch      | Medium     | 24 Jan 2026    | https://app.hackthebox.com/machines/826 |
 | Fries          | Hard       | 22 Nov 2025    | https://app.hackthebox.com/machines/808 |
 | NanoCorp       | Hard       | 08 Nov 2025    | https://app.hackthebox.com/machines/802 |
