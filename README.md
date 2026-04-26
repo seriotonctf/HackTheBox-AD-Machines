@@ -4,6 +4,7 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 
 | Machine Name   | Difficulty | Release Date   | Machine Link                                    |
 |----------------|------------|----------------|-------------------------------------------------|
+| PingPong       | Insane     | 25 Apr 2026    | https://app.hackthebox.com/machines/891 |
 | Garfield       | Hard       | 04 Apr 2026    | https://app.hackthebox.com/machines/862 |
 | Pirate         | Hard       | 28 Feb 2026    | https://app.hackthebox.com/machines/844 |
 | Overwatch      | Medium     | 24 Jan 2026    | https://app.hackthebox.com/machines/826 |

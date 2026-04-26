@@ -4,6 +4,7 @@
 
 | Machine | Difficulty | Release Date | IppSec | 0xdf |
 |---------|------------|--------------|--------|------|
+| [PingPong](https://app.hackthebox.com/machines/891) | Insane | 25 Apr 2026 | Active Machine | Active Machine |
 | [Garfield](https://app.hackthebox.com/machines/862) | Hard | 04 Apr 2026 | Active Machine | Active Machine |
 | [Pirate](https://app.hackthebox.com/machines/844) | Hard | 28 Feb 2026 | Active Machine | Active Machine |
 | [Overwatch](https://app.hackthebox.com/machines/826) | Medium | 24 Jan 2026 | Active Machine | Active Machine |
