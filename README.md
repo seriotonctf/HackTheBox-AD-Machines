@@ -93,6 +93,8 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 ### Chains (mini-prolabs)
 | Chain Name | Difficulty   | Chain Link                                             |
 |------------|--------------|--------------------------------------------------------|
+| Reflection | Advanced     | https://app.hackthebox.com/prolabs/reflection          |
+| Trusted    | Advanced     | https://app.hackthebox.com/prolabs/trusted             |
 | Sidecar    | Advanced     | https://app.hackthebox.com/prolabs/sidecar             |
 | Push       | Advanced     | https://app.hackthebox.com/prolabs/push                |
 | Intercept  | Advanced     | https://app.hackthebox.com/prolabs/intercept           |
@@ -110,3 +112,4 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 |------------|--------------|--------------------------------------------------------|
 | Ifrit      | Intermediate | https://app.hackthebox.com/prolabs/ifrit               |
 | Wutai      | Intermediate | https://app.hackthebox.com/prolabs/wutai               |
+| Wutai      | Intermediate | https://app.hackthebox.com/prolabs/shinra              |
