@@ -112,4 +112,4 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 |------------|--------------|--------------------------------------------------------|
 | Ifrit      | Intermediate | https://app.hackthebox.com/prolabs/ifrit               |
 | Wutai      | Intermediate | https://app.hackthebox.com/prolabs/wutai               |
-| Wutai      | Intermediate | https://app.hackthebox.com/prolabs/shinra              |
+| Shinra     | Intermediate | https://app.hackthebox.com/prolabs/shinra              |
