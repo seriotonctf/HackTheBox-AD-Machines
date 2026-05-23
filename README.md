@@ -10,6 +10,7 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 | Pirate         | Hard       | 28 Feb 2026    | https://app.hackthebox.com/machines/844 |
 | Overwatch      | Medium     | 24 Jan 2026    | https://app.hackthebox.com/machines/826 |
 | Fries          | Hard       | 22 Nov 2025    | https://app.hackthebox.com/machines/808 |
+| Eighteen       | Easy       | 15 Nov 2025    | https://app.hackthebox.com/machines/805 |
 | NanoCorp       | Hard       | 08 Nov 2025    | https://app.hackthebox.com/machines/802 |
 | Hercules       | Insane     | 18 Oct 2025    | https://app.hackthebox.com/machines/778 |
 | Signed         | Medium     | 11 Oct 2025    | https://app.hackthebox.com/machines/775 |
@@ -108,8 +109,8 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 | Unintended | Intermediate | https://app.hackthebox.com/prolabs/unintended          |
 
 ### Red Team Labs
-| Lab Name | Difficulty   | Lab Link                                             |
+| Lab Name | Difficulty     | Lab Link                                               |
 |------------|--------------|--------------------------------------------------------|
 | Ifrit      | Intermediate | https://app.hackthebox.com/prolabs/ifrit               |
 | Wutai      | Intermediate | https://app.hackthebox.com/prolabs/wutai               |
-| Wutai      | Intermediate | https://app.hackthebox.com/prolabs/shinra              |
+| shinra     | Intermediate | https://app.hackthebox.com/prolabs/shinra              |
