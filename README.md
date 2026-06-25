@@ -4,6 +4,9 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 
 | Machine Name   | Difficulty | Release Date   | Machine Link                                    |
 |----------------|------------|----------------|-------------------------------------------------|
+| Odyssey        | Insane     | 23 Jun 2026    | https://app.hackthebox.com/machines/954 |
+| Ghostlink      | Hard       | 23 Jun 2026    | https://app.hackthebox.com/machines/951 |
+| Checkpoint     | Medium     | 13 Jun 2026    | https://app.hackthebox.com/machines/909 |
 | PingPong       | Insane     | 25 Apr 2026    | https://app.hackthebox.com/machines/891 |
 | Logging        | Medium     | 18 Apr 2026    | https://app.hackthebox.com/machines/888 |
 | Garfield       | Hard       | 04 Apr 2026    | https://app.hackthebox.com/machines/862 |

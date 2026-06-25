@@ -4,6 +4,7 @@
 
 | Machine | Difficulty | Release Date | IppSec | 0xdf |
 |---------|------------|--------------|--------|------|
+| [Checkpoint](https://app.hackthebox.com/machines/909) | Medium | 13 Jun 2026 | Active Machine | Active Machine |
 | [PingPong](https://app.hackthebox.com/machines/891) | Insane | 25 Apr 2026 | Active Machine | Active Machine |
 | [Logging](https://app.hackthebox.com/machines/888) | Medium | 18 Apr 2026 | Active Machine | Active Machine |
 | [Garfield](https://app.hackthebox.com/machines/862) | Hard | 04 Apr 2026 | Active Machine | Active Machine |
@@ -11,7 +12,7 @@
 | [Overwatch](https://app.hackthebox.com/machines/826) | Medium | 24 Jan 2026 | [Video](https://youtu.be/zOK_EzOyMN0) | [Writeup](https://0xdf.gitlab.io/2026/05/09/htb-overwatch.html) |
 | [Fries](https://app.hackthebox.com/machines/808) | Hard | 22 Nov 2025 | Active Machine | Active Machine |
 | [Eighteen](https://app.hackthebox.com/machines/805) | Easy | 15 Nov 2025 | [Video](https://youtu.be/C9IYXphO7CI) | [Writeup](https://0xdf.gitlab.io/2026/04/11/htb-eighteen.html) |
-| [NanoCorp](https://app.hackthebox.com/machines/802) | Hard | 08 Nov 2025 | Active Machine | Active Machine |
+| [NanoCorp](https://app.hackthebox.com/machines/802) | Hard | 08 Nov 2025 | [Video](https://youtu.be/8CjoKTPjbbk) | [Writeup](https://0xdf.gitlab.io/2026/06/20/htb-nanocorp.html) |
 | [Hercules](https://app.hackthebox.com/machines/778) | Insane | 18 Oct 2025 | Active Machine | Active Machine |
 | [Signed](https://app.hackthebox.com/machines/775) | Medium | 11 Oct 2025 | [Video](https://www.youtube.com/watch?v=d7FCnR6YS_E) | [Writeup](https://0xdf.gitlab.io/2026/02/07/htb-signed.html) |
 | [DarkZero](https://app.hackthebox.com/machines/754) | Hard | 04 Oct 2025 | [Video](https://youtu.be/fXPWoLwG3mU) | [Writeup](https://0xdf.gitlab.io/2026/04/04/htb-darkzero.html) |
