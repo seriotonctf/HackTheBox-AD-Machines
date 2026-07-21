@@ -4,6 +4,9 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 
 | Machine Name   | Difficulty | Release Date   | Machine Link                                    |
 |----------------|------------|----------------|-------------------------------------------------|
+| TrustFall      | Insane     | 15 Aug 2026    | https://app.hackthebox.com/machines/963 |
+| DanglingTree   | Medium     | 08 Aug 2026    | https://app.hackthebox.com/machines/936 |
+| DarkZeroReturns| Hard       | 25 Jul 2026    | https://app.hackthebox.com/machines/930 |
 | Odyssey        | Insane     | 23 Jun 2026    | https://app.hackthebox.com/machines/954 |
 | Ghostlink      | Hard       | 23 Jun 2026    | https://app.hackthebox.com/machines/951 |
 | Checkpoint     | Medium     | 13 Jun 2026    | https://app.hackthebox.com/machines/909 |
