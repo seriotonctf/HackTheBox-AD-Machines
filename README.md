@@ -102,23 +102,23 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 ### Chains (mini-prolabs)
 | Chain Name | Difficulty   | Chain Link                                             |
 |------------|--------------|--------------------------------------------------------|
-| Reflection | Advanced     | https://app.hackthebox.com/prolabs/reflection          |
-| Trusted    | Advanced     | https://app.hackthebox.com/prolabs/trusted             |
-| Sidecar    | Advanced     | https://app.hackthebox.com/prolabs/sidecar             |
-| Push       | Advanced     | https://app.hackthebox.com/prolabs/push                |
-| Intercept  | Advanced     | https://app.hackthebox.com/prolabs/intercept           |
-| Mythical   | Advanced     | https://app.hackthebox.com/prolabs/mythical            |
-| Puppet     | Advanced     | https://app.hackthebox.com/prolabs/overview/puppet     |
-| Kaiju      | Advanced     | https://app.hackthebox.com/prolabs/kaiju               |
-| Tea        | Advanced     | https://app.hackthebox.com/prolabs/tea                 |
-| Klendathu  | Advanced     | https://app.hackthebox.com/prolabs/klendathu           |
-| Tengu      | Advanced     | https://app.hackthebox.com/prolabs/tengu               |
-| Heron      | Advanced     | https://app.hackthebox.com/prolabs/heron               |
-| Unintended | Intermediate | https://app.hackthebox.com/prolabs/unintended          |
+| Reflection | Advanced     | https://app.hackthebox.com/prolabs/67          |
+| Trusted    | Advanced     | https://app.hackthebox.com/prolabs/70             |
+| Sidecar    | Advanced     | https://app.hackthebox.com/prolabs/52             |
+| Push       | Advanced     | https://app.hackthebox.com/prolabs/55                |
+| Intercept  | Advanced     | https://app.hackthebox.com/prolabs/61           |
+| Mythical   | Advanced     | https://app.hackthebox.com/prolabs/25            |
+| Puppet     | Advanced     | https://app.hackthebox.com/prolabs/22     |
+| Kaiju      | Advanced     | https://app.hackthebox.com/prolabs/46               |
+| Tea        | Advanced     | https://app.hackthebox.com/prolabs/43                 |
+| Klendathu  | Advanced     | https://app.hackthebox.com/prolabs/34           |
+| Tengu      | Advanced     | https://app.hackthebox.com/prolabs/40               |
+| Heron      | Advanced     | https://app.hackthebox.com/prolabs/31               |
+| Unintended | Intermediate | https://app.hackthebox.com/prolabs/37          |
 
 ### Red Team Labs
 | Lab Name | Difficulty     | Lab Link                                               |
 |------------|--------------|--------------------------------------------------------|
 | Ifrit      | Intermediate | https://app.hackthebox.com/prolabs/ifrit               |
 | Wutai      | Intermediate | https://app.hackthebox.com/prolabs/wutai               |
-| shinra     | Intermediate | https://app.hackthebox.com/prolabs/shinra              |
+| Shinra     | Intermediate | https://app.hackthebox.com/prolabs/shinra              |
