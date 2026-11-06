@@ -4,6 +4,7 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 
 | Machine Name   | Difficulty | Release Date   | Machine Link                                    |
 |----------------|------------|----------------|-------------------------------------------------|
+| Autopilot      | Insane     | 17 Oct 2026    | https://app.hackthebox.com/machines/993 |
 | Scaffold       | Hard       | 05 Sept 2026   | https://app.hackthebox.com/machines/978 |
 | TrustFall      | Insane     | 15 Aug 2026    | https://app.hackthebox.com/machines/963 |
 | DanglingTree   | Medium     | 08 Aug 2026    | https://app.hackthebox.com/machines/936 |

@@ -4,11 +4,12 @@
 
 | Machine | Difficulty | Release Date | IppSec | 0xdf |
 |---------|------------|--------------|--------|------|
+| [Autopilot](https://app.hackthebox.com/machines/993) | Insane | 17 Oct 2026 | Active Machine | Active Machine |
 | [Scaffold](https://app.hackthebox.com/machines/978) | Hard | 04 Sept 2026 | Active Machine | Active Machine |
 | [TrustFall](https://app.hackthebox.com/machines/963) | Insane | 15 Aug 2026 | Active Machine | Active Machine |
 | [DanglingTree](https://app.hackthebox.com/machines/936) | Medium | 08 Aug 2026 | Active Machine | Active Machine |
 | [DarkZeroReturns](https://app.hackthebox.com/machines/930) | Hard | 25 Jul 2026 | Active Machine | Active Machine |
-| [Checkpoint](https://app.hackthebox.com/machines/909) | Medium | 13 Jun 2026 | Active Machine | Active Machine |
+| [Checkpoint](https://app.hackthebox.com/machines/909) | Medium | 13 Jun 2026 | [Video](https://youtu.be/c_ioEqX7NFE) | [Writeup](https://0xdf.gitlab.io/2026/10/24/htb-checkpoint.html) |
 | [PingPong](https://app.hackthebox.com/machines/891) | Insane | 25 Apr 2026 | Active Machine | Active Machine |
 | [Logging](https://app.hackthebox.com/machines/888) | Medium | 18 Apr 2026 | [Video](https://youtu.be/-SLJWkn1tzo) | [Writeup](https://0xdf.gitlab.io/2026/07/18/htb-logging.html) |
 | [Garfield](https://app.hackthebox.com/machines/862) | Hard | 04 Apr 2026 | Active Machine | Active Machine |
