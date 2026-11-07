@@ -12,13 +12,13 @@
 | [Checkpoint](https://app.hackthebox.com/machines/909) | Medium | 13 Jun 2026 | [Video](https://www.youtube.com/watch?v=c_ioEqX7NFE) | [Writeup](https://0xdf.gitlab.io/2026/10/24/htb-checkpoint.html) |
 | [PingPong](https://app.hackthebox.com/machines/891) | Insane | 25 Apr 2026 | Active Machine | Active Machine |
 | [Logging](https://app.hackthebox.com/machines/888) | Medium | 18 Apr 2026 | [Video](https://www.youtube.com/watch?v=-SLJWkn1tzo) | [Writeup](https://0xdf.gitlab.io/2026/07/18/htb-logging.html) |
-| [Garfield](https://app.hackthebox.com/machines/862) | Hard | 04 Apr 2026 | Active Machine | Active Machine |
+| [Garfield](https://app.hackthebox.com/machines/862) | Hard | 04 Apr 2026 | [Video](https://www.youtube.com/watch?v=EJTuYJLsLr7KmgQE) | [Writeup](https://0xdf.gitlab.io/2026/11/07/htb-garfield.html) |
 | [Pirate](https://app.hackthebox.com/machines/844) | Hard | 28 Feb 2026 | [Video](https://www.youtube.com/watch?v=-ZWuvykS-QA) | [Writeup](https://0xdf.gitlab.io/2026/09/05/htb-pirate.html) |
 | [Overwatch](https://app.hackthebox.com/machines/826) | Medium | 24 Jan 2026 | [Video](https://www.youtube.com/watch?v=zOK_EzOyMN0) | [Writeup](https://0xdf.gitlab.io/2026/05/09/htb-overwatch.html) |
 | [Fries](https://app.hackthebox.com/machines/808) | Hard | 22 Nov 2025 | [Video](https://www.youtube.com/watch?v=GZf2Dj6pb0I) | [Writeup](https://0xdf.gitlab.io/2026/07/25/htb-fries.html) |
 | [Eighteen](https://app.hackthebox.com/machines/805) | Easy | 15 Nov 2025 | [Video](https://www.youtube.com/watch?v=C9IYXphO7CI) | [Writeup](https://0xdf.gitlab.io/2026/04/11/htb-eighteen.html) |
 | [NanoCorp](https://app.hackthebox.com/machines/802) | Hard | 08 Nov 2025 | [Video](https://www.youtube.com/watch?v=8CjoKTPjbbk) | [Writeup](https://0xdf.gitlab.io/2026/06/20/htb-nanocorp.html) |
-| [Hercules](https://app.hackthebox.com/machines/778) | Insane | 18 Oct 2025 | Active Machine | Active Machine |
+| [Hercules](https://app.hackthebox.com/machines/778) | Insane | 18 Oct 2025 | N/A | [Writeup](https://0xdf.gitlab.io/2026/09/21/htb-hercules.html) |
 | [Signed](https://app.hackthebox.com/machines/775) | Medium | 11 Oct 2025 | [Video](https://www.youtube.com/watch?v=d7FCnR6YS_E) | [Writeup](https://0xdf.gitlab.io/2026/02/07/htb-signed.html) |
 | [DarkZero](https://app.hackthebox.com/machines/754) | Hard | 04 Oct 2025 | [Video](https://www.youtube.com/watch?v=fXPWoLwG3mU) | [Writeup](https://0xdf.gitlab.io/2026/04/04/htb-darkzero.html) |
 | [Mirage](https://app.hackthebox.com/machines/682) | Hard | 19 Jul 2025 | [Video](https://www.youtube.com/watch?v=0oSGKL9jbAQ) | [Writeup](https://0xdf.gitlab.io/2025/11/22/htb-mirage.html) |
