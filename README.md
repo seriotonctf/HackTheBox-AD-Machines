@@ -2,6 +2,13 @@
 
 A list of all Active Directory machines from HackTheBox, sorted by their release date (newest first)
 
+| Difficulty | Count |
+|---|---|
+| Easy | 13 |
+| Medium | 26 |
+| Hard | 27 |
+| Insane | 20 |
+
 | Machine Name   | Difficulty | Release Date   | Machine Link                                    |
 |----------------|------------|----------------|-------------------------------------------------|
 | Autopilot      | Insane     | 17 Oct 2026    | https://app.hackthebox.com/machines/993 |
