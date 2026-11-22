@@ -4,13 +4,15 @@
 
 | Machine | Difficulty | Release Date | IppSec | 0xdf |
 |---------|------------|--------------|--------|------|
+| [Handler](https://app.hackthebox.com/machines/1017) | Insane | 21 Nov 2026 | Active Machine | Active Machine |
+| [RedEye](https://app.hackthebox.com/machines/1014) | Hard | 14 Nov 2026 | Active Machine | Active Machine |
 | [Autopilot](https://app.hackthebox.com/machines/993) | Insane | 17 Oct 2026 | Active Machine | Active Machine |
 | [Scaffold](https://app.hackthebox.com/machines/978) | Hard | 04 Sep 2026 | Active Machine | Active Machine |
 | [TrustFall](https://app.hackthebox.com/machines/963) | Insane | 15 Aug 2026 | Active Machine | Active Machine |
 | [DanglingTree](https://app.hackthebox.com/machines/936) | Medium | 08 Aug 2026 | Active Machine | Active Machine |
 | [DarkZeroReturns](https://app.hackthebox.com/machines/930) | Hard | 25 Jul 2026 | Active Machine | Active Machine |
 | [Checkpoint](https://app.hackthebox.com/machines/909) | Medium | 13 Jun 2026 | [Video](https://www.youtube.com/watch?v=c_ioEqX7NFE) | [Writeup](https://0xdf.gitlab.io/2026/10/24/htb-checkpoint.html) |
-| [PingPong](https://app.hackthebox.com/machines/891) | Insane | 25 Apr 2026 | Active Machine | Active Machine |
+| [PingPong](https://app.hackthebox.com/machines/891) | Insane | 25 Apr 2026 | [Video](https://www.youtube.com/watch?v=w2A52-dhO9E) | [Writeup](https://0xdf.gitlab.io/2026/11/21/htb-pingpong.html) |
 | [Logging](https://app.hackthebox.com/machines/888) | Medium | 18 Apr 2026 | [Video](https://www.youtube.com/watch?v=-SLJWkn1tzo) | [Writeup](https://0xdf.gitlab.io/2026/07/18/htb-logging.html) |
 | [Garfield](https://app.hackthebox.com/machines/862) | Hard | 04 Apr 2026 | [Video](https://www.youtube.com/watch?v=cN4Uez-PZmM) | [Writeup](https://0xdf.gitlab.io/2026/11/07/htb-garfield.html) |
 | [Pirate](https://app.hackthebox.com/machines/844) | Hard | 28 Feb 2026 | [Video](https://www.youtube.com/watch?v=-ZWuvykS-QA) | [Writeup](https://0xdf.gitlab.io/2026/09/05/htb-pirate.html) |

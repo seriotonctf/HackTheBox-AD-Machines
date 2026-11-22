@@ -6,11 +6,13 @@ A list of all Active Directory machines from HackTheBox, sorted by their release
 |---|---|
 | Easy | 13 |
 | Medium | 26 |
-| Hard | 27 |
-| Insane | 20 |
+| Hard | 28 |
+| Insane | 21 |
 
 | Machine Name   | Difficulty | Release Date   | Machine Link                                    |
 |----------------|------------|----------------|-------------------------------------------------|
+| Handler        | Insane     | 21 Nov 2026    | https://app.hackthebox.com/machines/1017 |
+| RedEye         | Hard       | 14 Nov 2026    | https://app.hackthebox.com/machines/1014 |
 | Autopilot      | Insane     | 17 Oct 2026    | https://app.hackthebox.com/machines/993 |
 | Scaffold       | Hard       | 05 Sept 2026   | https://app.hackthebox.com/machines/978 |
 | TrustFall      | Insane     | 15 Aug 2026    | https://app.hackthebox.com/machines/963 |
